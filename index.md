@@ -6,3 +6,8 @@
 
 
 *Aucun droit d'auteur.*
+
+
+Statut BOT : 	online
+
+![image](https://user-images.githubusercontent.com/80778992/138871433-76ff4634-a945-430a-8e82-5be31f7449e8.png)
